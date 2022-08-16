@@ -1,4 +1,5 @@
-near-blank-project
+
+near-sdk-js-statusmessage
 ==================
 
 This app was initialized with [create-near-app]
